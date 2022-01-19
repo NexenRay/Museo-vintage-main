@@ -3,6 +3,8 @@ p.des{
     background-color: lightblue;
 
     position: relative;
-    top: 200px;
-
+    top: -20px;
+    bottom: -40px;
+    right: 15px;
+    left: 20px;
 }
