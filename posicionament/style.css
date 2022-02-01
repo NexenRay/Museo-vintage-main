@@ -3,5 +3,6 @@ body.bc{
 }
 
 .h1{
+    color: chartreuse;
     align-self: center;
 }
